@@ -1,0 +1,17 @@
+Selina Sotomayor and Whitney Fahnbulleh
+CS 249 Data, Analytics, and Visualization
+notes.txt
+
+Course_Data.xlsx - Excel file with enrollment data, broken down by department, course level, and racial/ethnic group (from Fall 2011 to Spring 2015)
+
+diversity - folder containing Flask files
+	diversity.json - JSON file that contains data used to generate line charts
+	Enrollment_Flask.py - python file that initializes/generates Flask application
+	templates - folder containing index.html 
+		index.html - html template for Flask application
+
+Enrollment_Diversity.html - html file containing only results from Enrollment_Diversity_Code.ipynb, intended for read only purposes
+
+Enrollment_Diversity.ipynb - ipython notebook containing only results from Enrollment_Diversity_Code.ipynb, used to generate html file
+
+Enrollment_Diversity_Code.ipynb - ipython notebook containing code to perform analyses and generate 3D cluster graphs
